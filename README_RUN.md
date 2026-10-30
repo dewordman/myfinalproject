@@ -21,7 +21,6 @@ Place the raw data as follows (see `docs/CHANGES_REV2.md` for the sources):
 - `data\raw\enron_spam\*.csv`, `data\raw\spamassassin\` (CSV or folders)
 - `data\raw\nazario\` with `phishing0.mbox`, `phishing1.mbox`, `phishing2.mbox`, `phishing3.mbox`, `20051114.mbox`
 - `data\raw\nazario_external\phishing-2015.mbox` ... `phishing-2025.mbox` (files from the site are saved WITHOUT an extension; rename them with `.mbox`)
-- No CSV may remain in `data\raw\nazario`.
 
 ## 3. Declare your decisions BEFORE running anything that selects a model
 
